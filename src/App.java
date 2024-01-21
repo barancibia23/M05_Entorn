@@ -12,7 +12,7 @@ public class App {
             }
         } System.out.println("lo rial g for laif"); */
         
-        for (int n = -6; n <= 20; n++) {
+        for (int n = -66; n <= 20; n++) {
             if (n % 2 == 1) {
                 
             }
